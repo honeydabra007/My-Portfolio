@@ -105,6 +105,7 @@
     align-items: center;
     padding: 32px;
     gap: 24px;
+    overflow: hidden;
 }
 
 .para {
@@ -134,7 +135,7 @@
 }
 
 .imgBox img {
-    width: 22em;
+    width: 16em;
     border-radius: 16px;
     box-shadow: 22px 64px 800px 5px rgba(247, 71, 247, 0.555);
 }
@@ -352,6 +353,7 @@ header {
     justify-content: space-evenly;
     align-items: center;
     padding: 12px;
+    border: 1px solid red;
 }
 
 .left {}

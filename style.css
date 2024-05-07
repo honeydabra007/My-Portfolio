@@ -319,7 +319,6 @@
 
 .active a {
     border: 1px solid rgb(156, 59, 248);
-    ;
     padding: 8px 10px;
     border-radius: 8px;
     transition: all 0.34s ease-out;
@@ -378,7 +377,7 @@ header {
     font-family: var(--fonts-primary);
     text-transform: uppercase;
     color: rgb(177, 95, 255);
-    ;
+    
 }
 
 .navbar .right {}
